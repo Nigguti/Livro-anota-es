@@ -1,0 +1,8 @@
+JS - uma visão geral e rápida
+
+JavaScript (JS): Linguagem amplamente usada, com muitos códigos disponíveis no GitHub.
+
+Front e Back-end: Embora seja conhecida pelo uso no front-end, com Node.js pode ser utilizada no back-end também.
+
+Aplicações híbridas: Combinando front e back em JS, é possível desenvolver APKs para dispositivos móveis e aplicações para desktop.
+
